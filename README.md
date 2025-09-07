@@ -1,4 +1,4 @@
-<img width="1910" height="946" alt="v7" src="https://github.com/user-attachments/assets/5707ba67-c356-4e35-9384-346d53fa320f" /># 📚 CodeDrifter – Real-Time Documentation Assistant  
+# 📚 CodeDrifter – Real-Time Documentation Assistant  
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)  
 ![License](https://img.shields.io/badge/license-MIT-blue)  
@@ -7,14 +7,21 @@
 ![Issues](https://img.shields.io/github/issues/TsangDaXin/codeDrifter)  
 
 ---
+# CodeDrifter
 
 **CodeDrifter** makes documentation **effortless, accurate, and always up to date**.  
-No more stale docs. No more onboarding nightmares. Just clean, living documentation that evolves with your code.  
+No more stale docs. No more onboarding nightmares. Just clean, living documentation that evolves with your code.
 
-If you want to visit our business webpage view , here are the links : https://github.com/TsangDaXin/CodeDrifter-Business-Webpage
-Slide Link : https://www.canva.com/design/DAGxueAIYCQ/PmSSEdoeJe8Hp7zVbac2dA/edit?utm_content=DAGxueAIYCQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-Youtube video : https://www.youtube.com/watch?v=AnHmQitOoqE
+If you want to visit our business webpage, here are the links:
 
+- **Business Webpage Repository:**  
+  [https://github.com/TsangDaXin/CodeDrifter-Business-Webpage](https://github.com/TsangDaXin/CodeDrifter-Business-Webpage)
+
+- **Slide Link (Canva Presentation):**  
+  [https://www.canva.com/design/DAGxueAIYCQ/PmSSEdoeJe8Hp7zVbac2dA/edit?utm_content=DAGxueAIYCQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGxueAIYCQ/PmSSEdoeJe8Hp7zVbac2dA/edit?utm_content=DAGxueAIYCQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+- **YouTube Video:**  
+  [https://www.youtube.com/watch?v=AnHmQitOoqE](https://www.youtube.com/watch?v=AnHmQitOoqE)
 ---
 
 ## 🌟 Why CodeDrifter?  
